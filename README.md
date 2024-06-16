@@ -19,5 +19,5 @@ RideshareDB is a MySQL database project designed to emulate the operations of a 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/aftahinayan/RideshareDB.git
+   git clone https://github.com/AftahiNayan/RideshareDB.git
    cd RideshareDB
